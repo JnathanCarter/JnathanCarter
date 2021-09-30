@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @JnathanCarter
-- 👀 I’m interested in ...Integrated System Software Dev
+- 👀 I’m interested in ...Imbedded System Software Development
 - 🌱 I’m currently learning ... C++ || Java
+- 📫 How to reach me ...email: jcarter20@stu.jsu.edu
+<!---
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+--->
 
 <!---
 JnathanCarter/JnathanCarter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
