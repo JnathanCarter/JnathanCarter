@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JnathanCarter
 - 👀 I’m interested in ...Embedded System Software Development
-- 🌱 I’m currently learning ... C++ || Java
+- 🌱 I’m currently learning ... C++ && Java && JavaScript
 - 📫 How to reach me ...email: jcarter20@stu.jsu.edu
 <!---
 - 💞️ I’m looking to collaborate on ...
