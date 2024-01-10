@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JnathanCarter
 - 👀 I’m interested in ...Java Development and Back-End Web Development
 - 🌱 I’m currently learning ... C++ && Java && JavaScript
-- 📫 How to reach me ...email: jcarter20@stu.jsu.edu
+- 📫 How to reach me ...email: johncartertseng@outlook.com
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
